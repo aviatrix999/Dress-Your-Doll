@@ -1,6 +1,6 @@
 # 🌸👗 Dress-Up Girl 👗🌸
 <div align="center">
-  <img ![Dress Preview](dress-your-doll.gif) width="300px">
+  <img ![Dress Preview] src="(dress-your-doll.gif)" width="300px">
 </div>
 
 
@@ -68,8 +68,15 @@ Great practice for DOM manipulation, CSS design, and JS interactivity! 💖
 ## Clone the repo:
 
 git clone https://github.com/your-aviatrix999/dress-your-doll.git
-
-
 Open dress-your-doll.html in your browser
-
 Click the “Change Dress Color” button and enjoy! 🌈
+
+📌 **Author**
+
+**Amisha Patel**
+✨ First-year CSE student | Exploring Web Development & JavaScript
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
+
