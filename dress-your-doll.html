@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="dress-your-doll.css">
+    
+</head>
+
+<body class="h-screen flex flex-col justify-center items-center bg-gray-100">
+
+    <!-- Girl -->
+    <div class="relative flex flex-col items-center mb-6">
+
+        <div class="hair"></div>
+
+        <div class="head">
+            <div class="eye left"></div>
+            <div class="eye right"></div>
+            <div class="mouth"></div>
+        </div>
+
+        <div class="neck"></div>
+
+        <div id="dress" class="dress"></div>
+    </div>
+
+    <!-- Button -->
+    <button
+        class="bg-blue-600 text-white px-6 py-3 rounded-full text-lg"
+        onclick="changeDressColor()">
+        Change Dress Color
+    </button>
+
+    <script src="dress-your-doll.js"></script>
+
+</body>
+</html>
