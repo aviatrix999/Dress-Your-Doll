@@ -21,4 +21,5 @@
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-aviatrix999/dress-up-girl.git
+   
+   git clone https://github.com/aviatrix999/Dress-Your-Doll.git
