@@ -1,6 +1,8 @@
 # 🌸👗 Dress-Up Girl 👗🌸
+<div align="center">
+  <img ![Dress Preview](dress-your-doll.gif) width="300px">
+</div>
 
-![Dress Preview](dress-your-doll.gif)
 
 
 
