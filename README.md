@@ -1,16 +1,15 @@
 # 🌸👗 Dress-Up Girl 👗🌸
 
-![Dress Preview](https://media.giphy.com/media/3o7TKrR0xQ2uVqVvri/giphy.gif)
+![Dress Preview](dress-your-doll.gif)
 
-> A stylish girl in a long flowing dress! ✨  
-> Click the button to **magically change her dress color**! 🎨🖱️
+
 
 ---
 
 ## 🌟 Features
 
 - 👧 Cute interactive girl with **long hair**  
-- 👗 Flared **long dress with sleeves**  
+- 👗 Flared **long dress**  
 - 🎨 Click to **change dress color randomly**  
 - 💻 Built with **HTML, CSS, JavaScript**  
 - 🖱️ Fun, interactive, and easy to play with  
