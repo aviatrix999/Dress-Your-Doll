@@ -1,4 +1,4 @@
-# 🌸👗 Dress-Up Girl 👗🌸
+# 🌸👗 Dress-Your-Doll 👗🌸
 <div align="center">
   <img src="dress-your-doll.gif" width="300px">
 </div>
